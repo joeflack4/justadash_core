@@ -9,4 +9,8 @@ templates/modules/**
 /templates/modules/**
 modules/
 modules/*
+<<<<<<< HEAD
 modules/**
+=======
+modules/**
+>>>>>>> 5a59b3bec5566f82be149594005beea23abf9ec3
