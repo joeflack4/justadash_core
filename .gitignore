@@ -3,6 +3,8 @@
 
 templates/modules/
 !templates/modules/modules_config.py
+
+# - Unneceessary Excludes
 # templates/modules/*
 # templates/modules/**
 # /templates/modules/
