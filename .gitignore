@@ -2,15 +2,12 @@
 # These have their own repositories. Keep these in the release repository but remove from the core repository.
 
 templates/modules/
-templates/modules/*
-templates/modules/**
-/templates/modules/
-/templates/modules/*
-/templates/modules/**
-modules/
-modules/*
-<<<<<<< HEAD
-modules/**
-=======
-modules/**
->>>>>>> 5a59b3bec5566f82be149594005beea23abf9ec3
+!templates/modules/modules_config.py
+# templates/modules/*
+# templates/modules/**
+# /templates/modules/
+# /templates/modules/*
+# /templates/modules/**
+# modules/
+# modules/*
+# modules/**
